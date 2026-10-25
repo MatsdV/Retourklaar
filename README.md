@@ -26,10 +26,6 @@ Alles gebeurt in je eigen browser. Je labels worden nergens naartoe gestuurd. Al
 - Bij een afbeelding is de echte maat onbekend. Dan neemt de tool 10 × 15 cm aan. Klik op het label in de lijst om de breedte aan te passen.
 - De labels worden rij voor rij over de pagina's verdeeld. Waar het ruimte scheelt, worden ze een kwartslag gedraaid.
 
-## Publiceren met GitHub Pages
-
-Zet de repository op GitHub. Kies daarna bij **Settings → Pages** de branch `main` en de map `/ (root)`.
-
 ## Opbouw
 
 ```
